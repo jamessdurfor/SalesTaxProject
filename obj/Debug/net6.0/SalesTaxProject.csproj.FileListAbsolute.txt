@@ -1,0 +1,14 @@
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\bin\Debug\net6.0\SalesTaxProject.exe
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\bin\Debug\net6.0\SalesTaxProject.deps.json
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\bin\Debug\net6.0\SalesTaxProject.runtimeconfig.json
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\bin\Debug\net6.0\SalesTaxProject.dll
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\bin\Debug\net6.0\SalesTaxProject.pdb
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.AssemblyInfoInputs.cache
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.AssemblyInfo.cs
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.csproj.CoreCompileInputs.cache
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.dll
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\refint\SalesTaxProject.dll
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.pdb
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\SalesTaxProject.genruntimeconfig.cache
+C:\Users\RA\source\repos\SalesTaxProject\SalesTaxProject\obj\Debug\net6.0\ref\SalesTaxProject.dll
